@@ -9,8 +9,10 @@
   },
   "private": true,
   "dependencies": {
+    "@langchain/cloudflare": "^0.0.3",
     "hono": "^4.0.5",
-    "honox": "^0.1.4"
+    "honox": "^0.1.4",
+    "langchain": "^0.1.20"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240208.0",
